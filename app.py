@@ -1,8 +1,5 @@
-%%writefile app.py
 import streamlit as st
-
 st.set_page_config(page_title="Smart Tourism Guide", layout="centered")
-
 st.title("🏛️ الدليل السياحي الذكي - موقع الحِجر (العُلا)")
 st.caption("نظام التوثيق والرصد البصري التفاعلي المدعوم بالذكاء الاصطناعي")
 
